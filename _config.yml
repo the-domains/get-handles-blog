@@ -1,8 +1,7 @@
 layout_spectrum: 1
-typography_spectrum: 0.4462943
 color:
   saturation: 1
-  lightness: 1
+  lightness: 0.5
   brandStrength: 0.5042965
   brandColors:
     - '#000000'
@@ -11,4 +10,5 @@ color:
     - '#EF4723'
     - '#B8B9BC'
   rhythmicContrast: 1
+typography_spectrum: 0.4462943
 name: Get Handles Blog
