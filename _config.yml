@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.4462943
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 1
-  lightness: 0.5
   brandStrength: 1
+  lightness: 1
   brandColors:
     - '#000000'
     - '#F1F1F3'
     - '#FFC10E'
     - '#EF4723'
     - '#B8B9BC'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5311493
+typography_spectrum: 0.4462943
+layout_spectrum: 0.1412459
 name: Get Handles Blog
