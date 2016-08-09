@@ -10,8 +10,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.4462943
 color:
-  saturation: 1
+  saturation: 0.03490867
   brandStrength: 1
   lightness: 1
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#FFC10E'
     - '#EF4723'
     - '#B8B9BC'
-  rhythmicContrast: 0.5311493
-typography_spectrum: 0.4462943
+  rhythmicContrast: 0
 layout_spectrum: 0.1412459
 name: Get Handles Blog
