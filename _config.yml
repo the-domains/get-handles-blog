@@ -10,9 +10,8 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.2293233
 color:
-  saturation: 0.03490867
+  saturation: 1
   brandStrength: 1
   lightness: 0.4838883
   brandColors:
@@ -22,5 +21,6 @@ color:
     - '#EF4723'
     - '#B8B9BC'
   rhythmicContrast: 0
+typography_spectrum: 0.2293233
 layout_spectrum: 0.4516649
 name: Get Handles Blog
